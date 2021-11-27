@@ -42,7 +42,7 @@ body {
 		'seven eight nine subtract'
 		'four five six add'
 		'one two three equals'
-		'zero decimal . equals';
+		'zero zero decimal equals';
 	padding: 20px;
 	background-color: #292d36;
 	border-radius: 15px;
@@ -88,4 +88,8 @@ body {
 
 .operation {
 	color: #269f8c;
+}
+
+#zero {
+	width: auto;
 }
